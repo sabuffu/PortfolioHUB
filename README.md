@@ -4,7 +4,7 @@ Repositório inicial para estudos e projetos.
 
 **Site do portfólio:** [sabuffu.github.io/PortfolioHUB](https://sabuffu.github.io/PortfolioHUB/)
 **LinkedIn:** [Samuel Xavier](https://www.linkedin.com/in/samuel-xavier-759416195)
-**Site** [Pages](https://sabuffu.github.io/PortfolioHUB/)
+**Site:** [Pages](https://sabuffu.github.io/PortfolioHUB/)
 
 ---
 

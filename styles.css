@@ -42,7 +42,7 @@ section {
 }
 
 h2 {
-  color: #1f3a5f;
+  color: #2b1f5f;
   margin-bottom: 12px;
 }
 
@@ -50,7 +50,7 @@ p + p { margin-top: 10px; }
 
 ul { padding-left: 20px; }
 
-a { color: #1f6feb; }
+a { color: #2b1f5f; }
 
 .cards {
   display: grid;
