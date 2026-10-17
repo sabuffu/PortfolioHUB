@@ -6,6 +6,6 @@
 Planejamento e desenvolvimento de um portfólio, que virou este PortfolioHUB.
 
 ## Status
-🚧 Em construção ~ hehe 🚧
+🚧 Em construção 🚧
 
 [⬅ Voltar aos projetos acadêmicos](../README.md)

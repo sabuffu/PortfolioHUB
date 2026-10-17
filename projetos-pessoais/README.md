@@ -3,6 +3,6 @@
 Espaço para projetos pessoais!
 
 ## Status
-🚧 Em construção ~ hehe 🚧
+🚧 Em construção 🚧
 
 [Voltar ao início](../README.md)
