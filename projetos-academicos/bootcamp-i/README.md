@@ -1,15 +1,11 @@
 # Bootcamp I
 
-**Semestre:** 1º semestre · ADS UniCEUB
+**Semestre:** 1º semestre.
 
 ## Sobre a disciplina
-Planejamento e desenvolvimento do Study Hub, que virou este PortfolioHUB, e do portfólio profissional.
-
-## O que fica nesta pasta
-- Etapa Inicial: planejamento do repositório (documento, slides e vídeo)
-- Etapa Intermediária: criação do repositório, organização das pastas, READMEs, GitHub Pages e integração com o LinkedIn
+Planejamento e desenvolvimento de um portfólio, que virou este PortfolioHUB.
 
 ## Status
-🚧 Em andamento. Os arquivos serão adicionados ao longo do semestre.
+🚧 Em construção ~ hehe 🚧
 
 [⬅ Voltar aos projetos acadêmicos](../README.md)
